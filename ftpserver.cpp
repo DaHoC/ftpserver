@@ -1,7 +1,7 @@
 /**
  * File:   ftpserver.cpp
  * @author: Jan Hendriks
- * @copyright 2010 Jan Hendriks
+ * @copyright 2010 University of Bonn, Germany
  *
  * Created on 1. Dezember 2009, 12:46
  *
