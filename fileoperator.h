@@ -1,11 +1,3 @@
-/**
- * File:   fileoperator.h
- * @author: Jan Hendriks
- * @copyright 2010 Jan Hendriks
- *
- * Created on 6. Dezember 2009, 17:22
- */
-
 #ifndef _FILEOPERATOR_H
 #define	_FILEOPERATOR_H
 
@@ -25,12 +17,7 @@
 #include <grp.h>
 #include <stdint.h>
 #include <unistd.h>
-/*
-#include <errno.h>
-#include <string.h>
-#include <stdio.h>
-#include <time.h>
-*/
+
 // Buffer size
 #define BUFFER_SIZE 4096
 

@@ -1,16 +1,3 @@
-/**
- * File:   servercore.h
- * @author: Jan Hendriks
- * @copyright 2010 Jan Hendriks
- *
- * Created on 1. Dezember 2009, 12:54
- *
- * Sources of information used:
- * http://www.zotteljedi.de/socket-tipps/
- * http://www.lowtek.com/sockets/select.html
- *
- */
-
 #ifndef _SERVERCORE_H
 #define	_SERVERCORE_H
 

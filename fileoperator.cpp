@@ -1,11 +1,3 @@
-/**
- * File:   fileoperator.cpp
- * @author: Jan Hendriks
- * @copyright 2010 Jan Hendriks
- * 
- * Created on 6. Dezember 2009, 17:22
- */
-
 #include "fileoperator.h"
 
 // Constructor, gets the current server root dir as a parameter

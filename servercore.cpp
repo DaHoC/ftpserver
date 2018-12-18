@@ -1,11 +1,3 @@
-/**
- * File:   servercore.cpp
- * @author: Jan Hendriks
- * @copyright 2010 Jan Hendriks
- * 
- * Created on 1. Dezember 2009, 12:55
- */
-
 #include "servercore.h"
 #include "serverconnection.h"
 

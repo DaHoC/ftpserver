@@ -1,11 +1,3 @@
-/** 
- * File:   serverconnection.cpp
- * @author: Jan Hendriks
- * @copyright 2010 Jan Hendriks
- * 
- * Created on 1. Dezember 2009, 12:59
- */
-
 #include "serverconnection.h"
 #include "ftpserver.h"
 

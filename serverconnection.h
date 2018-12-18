@@ -1,11 +1,3 @@
-/**
- * File:   serverconnection.h
- * @author: Jan Hendriks
- * @copyright 2010 Jan Hendriks
- *
- * Created on 1. Dezember 2009, 12:59
- */
-
 #ifndef _SERVERCONNECTION_H
 #define	_SERVERCONNECTION_H
 #include "fileoperator.h"

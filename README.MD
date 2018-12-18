@@ -15,8 +15,13 @@ If all went well, an executable file named `ftpserver` should have been generate
 ### Run the server
 
 You can execute the executable generated in the compilation step by `./ftpserver`.
-(There are some command-line options you can pass, but they are still undocumented as of now :-)
+
+Command-line options are as follows:
+
+ftpserver `server root directory, default=./` `port to listen on for incoming connections, default=4242` `telnet mode for use with telnet client, default=false`
+
 To shut down, press Ctrl+C.
+
 While it is running, a ftp client can connect to it.
 
 ### Usage reference
