@@ -1,7 +1,0 @@
-servercore.o: servercore.cpp servercore.h serverconnection.h \
- fileoperator.h
-serverconnection.o: serverconnection.cpp serverconnection.h \
- fileoperator.h ftpserver.h servercore.h
-fileoperator.o: fileoperator.cpp fileoperator.h
-ftpserver.o: ftpserver.cpp ftpserver.h servercore.h serverconnection.h \
- fileoperator.h
