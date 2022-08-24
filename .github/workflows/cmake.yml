@@ -16,7 +16,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [windows-latest, macos-latest, ubuntu-latest]
+        os: [macos-latest, ubuntu-latest]
 
     steps:
     - name: Checkout repository
@@ -51,4 +51,3 @@ jobs:
         name: scat-${{matrix.os}}
         path: |
           ${{github.workspace}}/build/ftpserver
-          ${{github.workspace}}/build/${{env.BUILD_TYPE}}/ftpserver.exe
